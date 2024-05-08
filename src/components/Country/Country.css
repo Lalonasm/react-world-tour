@@ -1,6 +1,11 @@
-.country{
+.country {
     border: .125rem solid skyblue;
     border-radius: 1rem;
     padding: 1rem;
     margin: 1rem;
+    font-size: large;
+}
+.visited{
+    background-color: brown;
+    color: black;
 }
